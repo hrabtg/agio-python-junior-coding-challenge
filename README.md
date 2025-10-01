@@ -149,6 +149,4 @@ Este endpoint deve:
 1. **Clone** este repositório em sua máquina.
 2. **Crie uma branch** a partir da `main` com o nome `python-challenge-{seu usuário git}` (ex.: `python-challenge-hrabtg`).
 
-#### 💡 Dicas
-- Publique sua branch logo no início para não esquecer de enviar ao final.  
-- Fique à vontade para realizar quantos commits achar necessário. 
+> Fique à vontade para realizar quantos commits achar necessário.
