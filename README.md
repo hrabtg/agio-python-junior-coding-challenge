@@ -2,6 +2,7 @@
 
 ## 1. Visão Geral (o fluxo)
 Neste desafio, você deverá **consumir duas fontes de transações (APIs)**, cada uma com seu próprio formato de dados.  
+
 Sua tarefa será:  
 
 1. **Consumir** os dados das duas fontes  
