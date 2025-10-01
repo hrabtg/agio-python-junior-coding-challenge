@@ -146,7 +146,7 @@ Este endpoint deve:
 ```
 ## 6. Orientações para o desenvolvimento
 1. **Clone** este repositório em sua máquina.
-2. **Crie uma branch** a partir da `develop` com o nome `python-challenge-{seu usuário git}` (ex.: `python-challenge-hrabtg`).
+2. **Crie uma branch** a partir da `main` com o nome `python-challenge-{seu usuário git}` (ex.: `python-challenge-hrabtg`).
 
 #### 💡 Dicas
 - Publique sua branch logo no início para não esquecer de enviar ao final.  
